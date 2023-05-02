@@ -1,2 +1,2 @@
 # Chatgpt-Discord
-## hello
+## Discord Chatbot with OpenAI GPT-3 API
