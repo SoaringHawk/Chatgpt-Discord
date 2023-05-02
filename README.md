@@ -6,5 +6,8 @@ This is a Discord chatbot that uses the OpenAI GPT-3 API via the ChatGPT wrapper
 
 1. Clone the repository:
 
-''' pip install requests '''
+''' 
+
+pip install requests 
+'''
 
