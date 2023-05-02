@@ -6,8 +6,8 @@ This is a Discord chatbot that uses the OpenAI GPT-3 API via the ChatGPT wrapper
 
 1. Clone the repository:
 
-'''bash
-git clone https://github.com/yourusername/your-repo.git
+'''
+  git clone https://github.com/yourusername/your-repo.git
 
 '''
 
