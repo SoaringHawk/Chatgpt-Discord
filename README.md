@@ -6,8 +6,25 @@ This is a Discord chatbot that uses the OpenAI GPT-3 API via the ChatGPT wrapper
 
 1. Clone the repository:
 
-''' 
+```
 
-pip install requests 
-'''
+git clone https://github.com/SoaringHawk/Chatgpt-Discord/edit/main/README.md
+```
+
+2.Install the required packages:
+```
+pip install -r requirements.txt
+```
+
+3. Set up the OpenAI API key:
+
+```
+DISCORD_BOT_TOKEN=your_bot_token_here
+```
+
+### Usage
+
+```
+python bot.py
+```
 
